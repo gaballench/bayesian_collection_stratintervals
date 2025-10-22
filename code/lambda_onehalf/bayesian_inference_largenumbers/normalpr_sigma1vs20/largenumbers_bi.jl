@@ -43,7 +43,7 @@ setprogress!(false)
 # true params, and all times are before present (minus)
 theta2 = 100.0
 theta1 = 150.0
-lambda = -1.5
+lambda = 1.5
 
 #############################################################
 ######### We want to repeat the same approach below       ###

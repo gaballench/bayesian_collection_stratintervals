@@ -7,7 +7,7 @@ using Statistics
 # true values
 theta1 = 150.0
 theta2 = 100.0
-lambda = -0.5
+lambda = 1.5
 
 # read dir paths and get the idx for each type of simulation
 sims = readdir("batchsims", join=true)
